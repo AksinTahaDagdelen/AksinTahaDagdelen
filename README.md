@@ -1,4 +1,4 @@
-![MasterHead](https://www.bespokesoftwaredevelopment.com/blog/wp-content/uploads/2022/05/software-engineer-joke1-1-905x411.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif)
 <h1 align="center">Hi Everyone 👋🏽, I'm Akşin Taha Dağdelen</h1>
 <h3 align="center">Software Developer</h3>
 <h1 align="center"> 🖥️ </h1>
