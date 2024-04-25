@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif)
 <h1 align="center">Hi Everyone 👋🏽, I'm Akşin Taha Dağdelen</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Information Technology Assistant</h3>
 <h1 align="center"> 🖥️ </h1>
 
   📧 How to reach me ? **aksintahadagdelen@gmail.com**
